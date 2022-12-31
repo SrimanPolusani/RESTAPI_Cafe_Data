@@ -3,7 +3,7 @@
 <h3><a href='https://documenter.getpostman.com/view/24468292/2s8YmSr128'>Visit Documentation</a><h3>
 <h3>This project is built using the following tools:</h3>
 <ol>
-  <li>Platforms: Postman</li>
+  <li>Platform: Postman</li>
   <li>Frameworks & Modules: Flask, Flask-SQLAlchemy, Random</li>
   <li>Frontend: HTML</li>
   <li>Database: SQLite</li>
