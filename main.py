@@ -2,7 +2,6 @@
 from flask import Flask, jsonify, render_template, request
 from flask_sqlalchemy import SQLAlchemy
 import random
-# passcode file is not added for obvious reasons
 from passcode import api_key_top_secret
 
 app = Flask(__name__)
